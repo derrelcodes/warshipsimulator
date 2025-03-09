@@ -1,0 +1,22 @@
+iterations 100
+width 10
+height 10
+Team A 3
+Battleship * 3
+Destroyer # 4
+SuperShip $ 2
+Team B 4
+Cruiser > 2
+Frigate @ 3
+Corvette < 2 
+SuperShip % 1
+0 0 0 1 1 0 0 0 0 0
+0 0 0 1 1 0 0 0 0 0
+0 1 1 0 0 0 0 1 1 0
+0 1 1 0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 1 1 0 0 0 0 0
+0 0 0 1 1 0 0 0 0 0
+0 1 1 0 0 0 0 0 0 0
+0 1 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
