@@ -1,13 +1,3 @@
-// Program: TT5L_241UC24156.RASYIDAH.KHAIRIAH.MD.RAFFAE
-// Course: CCP6124 OOPDS
-// Lecture Class: TC2L
-// Tutorial Class: TT5L
-// Trimester: 2410
-// Member_1: 241UC24156 | Rasyidah Khairiah binti Md Raffae | RASYIDAH.KHAIRIAH.MD@student.mmu.edu.my | 011-15150796
-// Member_2: 241UC240HF | Nur Aisyah Fitriyah binti Anuar | NUR.AISYAH.FITRIYAH@student.mmu.edu.my | 014-6924384
-// Member_3: 1211107055 | Derrel Immanuel A/L Francis Xavier | 1211107055@student.mmu.edu.my | 017-2834245
-// Member_4: 241UC24177 | Suhash A/L Maniam Pillai | SUHASH.AL.MANIAM@student.mmu.edu.my | 012-6119641
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
